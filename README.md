@@ -44,7 +44,6 @@ The chatbot follows a simple rule-based approach:
 
 ## 📂 Project Structure
 
-```text
 Chatbot-Project/
 │
 ├── chatbot.py
@@ -52,8 +51,6 @@ Chatbot-Project/
 ├── README.md
 └── screenshots/
     └── chatbot-demo.png
-```
-
 ## 🚀 Installation and Setup
 
 ### 1. Clone the repository
